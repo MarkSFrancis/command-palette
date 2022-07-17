@@ -1,3 +1,3 @@
 # Command Palette
 
-A concept order management platform with a command palette
+A concept todo list with a command palette
